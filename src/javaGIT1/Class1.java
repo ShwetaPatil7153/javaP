@@ -7,6 +7,7 @@ public class Class1 {
 		System.out.println("trying java pg run..");
 		
 		System.out.println("hii");
+		System.out.println("hii22222");
 	}
 
 }
